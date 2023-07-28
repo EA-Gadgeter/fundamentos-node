@@ -30,7 +30,7 @@ try {
   // Tiene dentro su propio try/catch para evitar los errores
   seRompeAsincrona();
 } catch(error) {
-  console.error(error)
+  console.error(error);
 }
 
 console.log("Eso de aqui da error");
