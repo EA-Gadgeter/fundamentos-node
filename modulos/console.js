@@ -10,7 +10,7 @@ console.warn("Puede fallar algo");
 const tabla = [
   {
     a: 1,
-    b: "z"
+    b: "z" 
   },
   {
     a: 2,

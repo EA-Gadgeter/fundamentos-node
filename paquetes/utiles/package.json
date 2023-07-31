@@ -1,0 +1,18 @@
+{
+  "name": "utiles",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dayjs": "^1.11.9",
+    "sharp": "^0.32.4"
+  }
+}
